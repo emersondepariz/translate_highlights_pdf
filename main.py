@@ -27,7 +27,7 @@ def translate_words(words, src_lang='en', dest_lang='pt'):
     return translated_words
 
 if __name__ == "__main__":
-    pdf_path = "english-text-plans.pdf"  # Certifique-se de que o PDF está na mesma pasta que este script
+    pdf_path = "livre_francois.pdf"  # Certifique-se de que o PDF está na mesma pasta que este script
     words = extract_highlighted_words(pdf_path)
 
     # Perguntar ao usuário qual é a língua original do texto
