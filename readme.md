@@ -1,4 +1,4 @@
-**Programa que processa PDF e indentifica as palavras realçadas**
+##Programa que processa PDF e indentifica as palavras realçadas
 
 Esse programa vem Python visa analisar um PDF, identificar quais palavras foram realçadas, contar o número total de palavras e as realçadas, e sugerir uma tradução das palavras para o Português.
 
